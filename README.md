@@ -5,5 +5,5 @@ It tells whether person is parasitised or unparasitised
 # Language used
 Python language is used 
 
-#Tool used
+# Tool used
 Jupyter notebook in VS Code
